@@ -4,3 +4,14 @@
 
 layout: home
 ---
+
+# Blog
+
+A new blog site using **GO + VUE3**, coming soon.
+
+- almost native go
+- redis
+- mysql
+- docker
+
+[Source Code](https://github.com/kickastone/my-go-blog)
